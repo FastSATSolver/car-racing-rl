@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model files
+*.zip
+
+# Tensorboard
+*tensorboard*/
