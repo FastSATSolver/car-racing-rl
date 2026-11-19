@@ -224,6 +224,7 @@ __marimo__/
 
 # Model files
 *.zip
+*.pt
 
 # Tensorboard
 *tensorboard*/
